@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+រីក​រាយ​ណាស់​ដែល​បាន​ស្គាល់អ្នក!
 
-### More Information
+### អំពីយើង​ខ្ញុំ
 
-A place to include any other types of information that you'd like to include about yourself.
+សួរស្ដី,
+ខ្ញុំបាទឈ្មោះ សិង្ហ កាណែល– បច្ចុប្បន្នជា អ្នកសរសេរកូដ។
+
+
+គុណធម៌ស្មើមេឃ​​ សេចក្ដីល្អមិនសាបសូន្យ។
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+រាល់មតិយោបល់, សូមផ្ញើមក​កាន់ email:soengkanel@gmail.com
+[soengkanel@gmail.com](mailto:soengkanel@gmail.com)
