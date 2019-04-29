@@ -1,6 +1,6 @@
 ---
 layout: post
-title: វគ្គបង្រៀន python ដោយមិនគិត​ប្រាក់
+title: [Programming] វគ្គបង្រៀន python ដោយមិនគិត​ប្រាក់
 ---
 ខ្ញុំបានបើកវគ្គបង្រៀន python programming lanuage ដោយមិនយក​កម្រៃ បើអ្នកទាំងអស់​គ្នាចាប់អារម្មណ៏សូមទំនាក់ទំនងមកខ្ញុំតាមរយៈ
 [kanel](https://www.twitter.com/soengkanel )
