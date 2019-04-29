@@ -3,7 +3,7 @@ layout: post
 title: វគ្គបង្រៀន python ដោយមិនគិត​ប្រាក់
 ---
 ខ្ញុំបានបើកវគ្គបង្រៀន python programming lanuage ដោយមិនយក​កម្រៃ បើអ្នកទាំងអស់​គ្នាចាប់អារម្មណ៏សូមទំនាក់ទំនងមកខ្ញុំតាមរយៈ
-[kanel!](https://www.twitter.com/soengkanel )
+[kanel](https://www.twitter.com/soengkanel )
 
 ខ្ញុំបង្រៀន២ថ្ងៃក្នុងអាទិត្យ ចន្ទនិង​ពុធ។<br/>
 
@@ -49,4 +49,4 @@ Python រ៉ាន់(run)លើប្រព័ន្ធបកប្រែ(inte
 
 Python អាចធ្វើបានតាមវិធីបែបលំដាប់លំដោយ (procedure ឬ Function) វិធីបែបអាស្រ័យវត្ថុ (OOP) ឬ វិធីបែបកិរិយា (function)។
 
-ហើយនេះជាអ្វីដែល​យើងបាន​បង្រៀន៖ https://github.com/skanel/pykhmer-docs
+ហើយនេះជាអ្វីដែល​យើងបាន​បង្រៀន៖  [ឯកសាបង្រៀន](https://github.com/skanel/pykhmer-docs)
