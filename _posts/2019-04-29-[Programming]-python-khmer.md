@@ -5,8 +5,8 @@ title: Programming|ការប្រើផាយថុននិង​ភាស�
 
 ខ្ញុំនឹងលើកឧទាហរណ័ជាក់ស្ដែងក្នុង ការបង្កើតជាភាសាខ្មែរ , បកប្រែកូដ ,រត់កូដផាយអក្សរខ្មែរ  ជូនដល់អ្នក សូមចាំថា ដាក់ផ្នែក​ខាងលើនៃ File
 
-![_config.yml]({{ site.baseurl }}/images/Khmer-Unicode.png)
 កូដគម្រូ khmer.py
+
 ```
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
