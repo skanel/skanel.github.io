@@ -13,7 +13,7 @@ title: Programming|ការប្រើផាយថុននិង​ភាស�
 
 កូដ khmer.py
 
-```python
+```
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
  ```
