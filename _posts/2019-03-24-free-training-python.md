@@ -5,7 +5,7 @@ title: វគ្គបង្រៀន python ដោយមិនគិត​ប�
 ខ្ញុំបានបើកវគ្គបង្រៀន python programming lanuage ដោយមិនយក​កម្រៃ បើអ្នកទាំងអស់​គ្នាចាប់អារម្មណ៏សូមទំនាក់ទំនងមកខ្ញុំតាមរយៈ
 https://www.facebook.com/knel.soeng.7
 
-ខ្ញុំបង្រៀន២ថ្ងៃក្នុងអាទិត្យ ចន្ទនិង​ពុធ។
+ខ្ញុំបង្រៀន២ថ្ងៃក្នុងអាទិត្យ ចន្ទនិង​ពុធ។<br/>
 
 ![_config.yml](https://raw.githubusercontent.com/skanel/pykhmer-docs/master/pykhmer.jpg)
 
@@ -19,10 +19,10 @@ https://www.facebook.com/knel.soeng.7
 Python គឺជាភាសាកម្មវិធីដ៏ពេញនិយមមួយ បង្កើតឡើងនៅឆ្នាំ 1991 ដោយលោក Guido van Rossum ។
 និង ប្រើដើម្បី :
 
-១)សាងវេប (ផ្នែកខាងម៉ាស៊ីនបម្រើ), web development
-២)សាងកម្មវិធី, software development
-៣)គណិតវិទ្យា, mathematics
-៤)សរសេរស្គ្រីបប្រព័ន្ធ system scripting ។
+១)សាងវេប (ផ្នែកខាងម៉ាស៊ីនបម្រើ), web development<br/>
+២)សាងកម្មវិធី, software development<br/>
+៣)គណិតវិទ្យា, mathematics<br/>
+៤)សរសេរស្គ្រីបប្រព័ន្ធ system scripting ។<br/>
 
 ២.Python អាចធ្វើអ្វីបានខ្លះ?
 
