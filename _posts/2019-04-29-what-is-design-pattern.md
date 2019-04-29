@@ -13,23 +13,48 @@ title: ការ​នែនាំពី Design Pattern
 
 ![_config.yml]({{ site.baseurl }}/images/design-patterns-categories.png)
 
-– Creational Pattern (ក្រុម បង្កើត) រួមមាន: Abstract Factory, Factory Method, Singleton, Builder, Prototype. វា​នឹង​ជួយ​អ្នក​ក្នុង​ការ​បង្កើតថ្មីនូវ object។
+– Creational Pattern (ក្រុម បង្កើត) រួមមាន: 
+Abstract Factory, 
+Factory Method,
+Singleton, 
+Builder,
+Prototype. 
+វា​នឹង​ជួយ​អ្នក​ក្នុង​ការ​បង្កើតថ្មីនូវ object។
 
 ដូច​អ្នក​ធ្លាប់​ដឹងរួច​មក​ហើយថា ​ដើម្បី​បង្កើត​បាន​នូវ​ Object ថ្មីមួយ​គឺយើងប្រើ keyword new, សម្រាប់ក្រុម Creational Pattern នេះនឹង​ត្រូវ​បាន​ប្រើប្រាស់សម្រាប់ជាការ​បង្កើតឡើង​នូវ Object ដែល​យើងមើល​មិន​ឃើញ​នូវពាក្យគន្លះ (new) ក្នុងការ​បង្កើត Object នេះឡើយ។
 
-– Structural Pattern (ប្រភេទជា រចនា​សម្ព័ន្ធ) រួម​មាន​: Adapter, Bridge, Composite, Decorator, Facade, Proxy និង Flyweight.. វាប្រើ​សម្រាប់ បង្កើត, កំណត់ទំនាក់ទំនង​រវាង Object នឹង​គ្នា។
+– Structural Pattern (ប្រភេទជា រចនា​សម្ព័ន្ធ) រួម​មាន​: 
+Adapter,
+Bridge, 
+Composite, 
+Decorator, 
+Facade, Proxy និង Flyweight..
+វាប្រើ​សម្រាប់ បង្កើត, កំណត់ទំនាក់ទំនង​រវាង Object នឹង​គ្នា។
 
-– Behavioral Pattern រួម​មាន​: Interpreter, Template Method, Chain of Responsibility, Command, Iterator, Mediator, Memento, Observer, State, Strategy និង Visitor. ក្រុម​នេះ​ប្រើ​សម្រាប់ក្នុង​ការ​អនុវត្តរាល់សកម្ម​ភាព​របស់​ Object
+– Behavioral Pattern រួម​មាន​: 
+Interpreter,
+Template Method,
+Chain of Responsibility,
+Command, Iterator,
+Mediator, Memento,
+Observer, State, 
+Strategy និង Visitor. 
+ក្រុម​នេះ​ប្រើ​សម្រាប់ក្នុង​ការ​អនុវត្តរាល់សកម្ម​ភាព​របស់​ Object
 
 Design Pattern ជួយ​អោយ​អ្នក​ងាយ​ហៅ​កូដ​មក​ប្រើ​ឡើង​វិញ និឹង​ ធ្វើ​ការ មន្ថែម​មុខងារ​ផ្សេង​បាន​យ៉ាង​ទូលំទូលាយ​នឹង​ងាយ​ស្រួល
 
 ដើម្បី​ត្រៀមស្វែង​យល់​ពី Design Pattern អ្នក​គម្បីក្ដាប់​អោយ​បាន​ច្បាស់​នូវ​សញ្ញាណមួយ​ចំនួន​ខាង​ក្រោម​
 
-– លក្ខណពិសេស​ទាំង៤​របស់ OOP: inheritance (ជាការទទួល​មរតក), Polymophism (ជាពហុទំរង់), Abstract(ជាអរូបី), Packaging (ជាកញ្ចាប់).
+– លក្ខណពិសេស​ទាំង៤​របស់ OOP:
+inheritance (ជាការទទួល​មរតក), 
+Polymophism (ជាពហុទំរង់), 
+Abstract(ជាអរូបី), 
+Packaging (ជាកញ្ចាប់).
 
 – ចំពោះ interface និង abstract. ទាំង​ពីរ​យ៉ាង​នេះ គឺ​សំខាន់ខ្លាំង​ណាស់ , ដើម្បី​យល់​បាន​និង​អាច​អនុវត្ត​បាន​លើសញ្ញាណទាំង២​យ៉ាងនេះ ប្រហែល​អាច​ចំណាយ​ពេល​វេលាខ្លះក្នុង​ការ​ស្វែង​លំអិត​និង​ស៊ីជំរៅ, តែ​ដល់តែ​ពេល​ដែល​យើង​បាន​យល់ច្បាស់​នោះ​អ្នក​នឹង​មើញ​តំលៃ និង​ភាព​ចំាបាច់របស់វា.
 
 – ចូរបោះ​បង​គំនិត អំពី Structured programming, ដោយ​ផ្ដោត​សំខាន់​លើ​ OOP ទាំង​ស្រុងតែម្ដង។
 
-​         បើសិន​មាន​ផលវិបាក​ក្នុង​ការ​ត្រៀម​ខ្លួនខាង​លើ នោះ អ្នក​អាច​ទំនាក់ទំនង​មក​ខ្ញុំ ។ ខ្ញុំ​នឹង​ព្យាយាម ចែក​រំលែក​ចំណេះដឹង​ដែល​មាន​លើ​ផ្នែក​ OOP។
+​         បើសិន​មាន​ផលវិបាក​ក្នុង​ការ​ត្រៀម​ខ្លួនខាង​លើ នោះ អ្នក​អាច​ទំនាក់ទំនង​មក​ខ្ញុំ ។ 
+ខ្ញុំ​នឹង​ព្យាយាម ចែក​រំលែក​ចំណេះដឹង​ដែល​មាន​លើ​ផ្នែក​ OOP។
 ក្រោយ​ពេល​អ្នក​ច្បាស់​លើវា​ហើយ, អ្នក​ចាប់​ផ្ដើម​រៀន Design Pattern កាន់​តែ​ឆាប់​កាន់តែ​ល្អ​។ ហើយ​ក្រោយ​ពេល​អ្នក​ចេះ​ Design Pattern អ្នក​មាន​កាន់​តែ​មាន​ឧត្ដម​ភាព​លើ​ជំនាញ​របស​អ្នក​។
