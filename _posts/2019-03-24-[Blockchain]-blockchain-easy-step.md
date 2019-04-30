@@ -18,5 +18,23 @@ add_list()
 add_list()
 add_list()
 ```
+យើងបន្ថែមកូដខាងលើ​ដើម្បីអោយប្រសើរឡើង
+
+```
+blockchain = []
+def get_last_blockchain_value():
+    return blockchain[-1]
+
+
+def add_value(transaction_amount):
+    blockchain.append([get_last_blockchain_value(), transaction_amount])
+
+add_value(2)
+add_value(0.9)
+add_value(10.89)
+
+print(blockchain)
+```
+
 # តើវាតភ្ជាប់គ្នា​ដោយរបៀបណា <br>
 ![_config.yml]({{ site.baseurl }}/images/bc.png)
