@@ -18,5 +18,5 @@ add_list()
 add_list()
 add_list()
 ```
-# តើវាតភ្ជាប់គ្នា​ដោយរបៀបណា# <br>
+# តើវាតភ្ជាប់គ្នា​ដោយរបៀបណា <br>
 ![_config.yml]({{ site.baseurl }}/images/bc.png)
