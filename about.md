@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: អំពីខ្ញុំ
 permalink: /about/
 ---
 
