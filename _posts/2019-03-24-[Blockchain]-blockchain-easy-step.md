@@ -42,7 +42,7 @@ add_value(tx_amount, get_last_blockchain_value())
 
 print(blockchain)
 ```
-ពេលរត់វានឹងបង្ហាញស្រដៀងនេះ អាស្រ័យលើការញ្ចូល៖
+ពេលរត់វានឹងបង្ហាញស្រដៀងនេះ អាស្រ័យលើការញ្ចូល៖ <br/>
 ![_config.yml]({{ site.baseurl }}/images/trx.png)
 
 # តើវាតភ្ជាប់គ្នា​ដោយរបៀបណា <br>
