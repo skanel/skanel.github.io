@@ -32,7 +32,8 @@ add_value(2)
 add_value(0.9)
 add_value(10.89)
 
-print(blockchain)```
+print(blockchain)
+```
 
 # តើវាតភ្ជាប់គ្នា​ដោយរបៀបណា <br>
 ![_config.yml]({{ site.baseurl }}/images/bc.png)
