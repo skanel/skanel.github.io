@@ -42,6 +42,8 @@ add_value(tx_amount, get_last_blockchain_value())
 
 print(blockchain)
 ```
+ពេលរត់វានឹងបង្ហាញស្រដៀងនេះ អាស្រ័យលើការញ្ចូល៖
+![_config.yml]({{ site.baseurl }}/images/tx.png)
 
 # តើវាតភ្ជាប់គ្នា​ដោយរបៀបណា <br>
 ![_config.yml]({{ site.baseurl }}/images/bc.png)
