@@ -1,4 +1,7 @@
 Scala ជាភាសាបង្កើតដែលបង្កើតឡើងដើម្បីក្លាយជាភាសាមួយដែលប្រសើរជា Java (Better Java) ព្រោះមានបទបែនខ្ពស់និងធ្វើការបានទាំងលើ OOP និង Function Programming.
+![_config.yml]({{ site.baseurl }}/images/scala.png)
+
+
 យើងអាចសង្កេតលើ កូដនៃCollection ខាងក្រោមនេះ៖
 
 ```
