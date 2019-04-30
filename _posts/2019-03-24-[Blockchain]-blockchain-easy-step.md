@@ -22,7 +22,7 @@ add_list()
 យើងបន្ថែមកូដខាងលើ​ដើម្បីអោយប្រសើរឡើង
 
 ```python
-blockchain = []
+blockchain = [] # Global variable
 def get_last_blockchain_value():
     return blockchain[-1]
 def add_value(transaction_amount, last_transaction=[1]):
