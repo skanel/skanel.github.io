@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scala|គំនិតល្អៗពី Elon Musk
+title: គំនិត|គំនិតល្អៗពី Elon Musk
 ---
 
 # This is Elon Musk.<br/>
