@@ -9,4 +9,7 @@ title: គំនិត|គំនិតល្អៗពី Elon Musk
 * Elon wanted to go to space cheaper, so he created SpaceX.
 * Elon wanted faster transportation, so he is developing Hyperloop. 
 * Elon does not tell everyone how bad the world is. 
-* Elon is working on changing the world.
+* Elon is working on changing the world.<br/>
+
+![_config.yml]({{ site.baseurl }}/images/elon-musk.png)
+
