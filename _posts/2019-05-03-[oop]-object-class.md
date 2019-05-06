@@ -1,8 +1,8 @@
 Object & Class ជា ធាតុ​សំខាន់ពីរ​ក្នុង​ OOP ដែល​យើង​ចាំ​បាច់ ឈ្វេង​យល់​ដោយ​ខាន​តែ​បាន។
 
+ ![_config.yml]({{ site.baseurl }}/images/object.png)
 
-
-Object-វត្ថុ ជា​អ្វី?
+# Object-វត្ថុ ជា​អ្វី?
 ការ​ប្រៀប​ធៀប Object-វត្ថុ ក្នុង​ជិវីត ជាក់​ស្កែង​និង​ក្នុង​ Object-វត្ថុ ក្នុង​ការ​សរសេរ​កម្ម​វិធី​កុំព្យូទ័រ
 
 Object-វត្ថុ ក្នុង​ជីវិត​ជាក់​ស្ដែង:
@@ -14,16 +14,15 @@ Object-វត្ថុ ក្នុង​ការ​សរសេរ​កម្
 ដូច្នេះ Object-វត្ថុ ក្នុង ការ​សរសេរ​កម្ម​វិធី​កុំព្យូទ័រ គឺ​ជា​ការ​ពណ៌នា អំពី រូប​រាង អត្តសញ្ញាណ ដែល​ជា​ចំនុច​សំគាល់វត្ថុ​ ជាក់​ស្ដែង​នោះ តាម​រយៈ Properties និង Methods
 សូម​ចាំពាក្យ​ពីរ​នេះ Properties និង Methods និយាយ​ដល់ Object គឺ និយាយ ដល់ Properties និង Methods។
 
-Class – ថ្នាក់ជា​អ្វី?
+# Class – ថ្នាក់ជា​អ្វី?
 មិន​មែន​ជា​ថ្នាក់រៀន​ទេ សូម​កុំច្រលំ តែវាគឺជា គំរូ ជាម៉ូដែល ឬ ជា​ប្លង់ ទូទៅ មួយ​របស់ object។
 
 ឧទាហរណ៏: Class : Person មាន​អត្តសញ្ញាណគឺ Name,Age,Address… និង​សកម្ម​ភាព ដើរ,ឈរ,អង្កុយ… និង​ត្រូវ​បាន​ពណ៌នា​នៅលើ Class.
 ឧទាហរណ៏:Object: Object ជាក់ស្ដែង Person ដែល​ត្រូវ​បាន​បង្កើតចេញពី Class Person ហើយ​នឹង​មាន​លក្ខណសំគាល់ Name = Soeng HengLee,Age =2,Address = Cambodia…និង បណ្ដា​ សកម្មភាព ដែល​មាន​នៅ​ក្នុង Class។
-
-226px-CPT-OOP-objects_and_classes.svg
-
+ ![_config.yml]({{ site.baseurl }}/images/object1.png)
+ 
 *យល់ថា class គឺជា​ការ​ពណ៌នាភាព​ជា​គំរូ ទូទៅមួយ (ឧទាហរណ៏៖ ឡាន), ចំណែក Object ជា​វត្ថុជាក់ស្ដែង (ឧទាហរណ៏៖ ឡាន TOYOA, BMW,HONDA)
 
 *យល់ទៀតថា Class គឺ​បង្កើត​ចេញ​បាន ជា​ Object
 
-object-class
+ ![_config.yml]({{ site.baseurl }}/images/object-class.png)
