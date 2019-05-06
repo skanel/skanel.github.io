@@ -1,3 +1,8 @@
+---
+layout: post
+title: oop|តើclass និង object ជាអ្វី?
+---
+
 Object & Class ជា ធាតុ​សំខាន់ពីរ​ក្នុង​ OOP ដែល​យើង​ចាំ​បាច់ ឈ្វេង​យល់​ដោយ​ខាន​តែ​បាន។
 
  ![_config.yml]({{ site.baseurl }}/images/object.png)
