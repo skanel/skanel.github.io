@@ -5,7 +5,7 @@ title: oop|តើclass និង object ជាអ្វី?
 
 Object & Class ជា ធាតុ​សំខាន់ពីរ​ក្នុង​ OOP ដែល​យើង​ចាំ​បាច់ ឈ្វេង​យល់​ដោយ​ខាន​តែ​បាន។
 
- ![_config.yml]({{ site.baseurl }}/images/object.png)
+ ![_config.yml]({{ site.baseurl }}/images/object.jpg)
 
 # Object-វត្ថុ ជា​អ្វី?
 ការ​ប្រៀប​ធៀប Object-វត្ថុ ក្នុង​ជិវីត ជាក់​ស្កែង​និង​ក្នុង​ Object-វត្ថុ ក្នុង​ការ​សរសេរ​កម្ម​វិធី​កុំព្យូទ័រ
@@ -30,4 +30,4 @@ Object-វត្ថុ ក្នុង​ការ​សរសេរ​កម្
 
 *យល់ទៀតថា Class គឺ​បង្កើត​ចេញ​បាន ជា​ Object
 
- ![_config.yml]({{ site.baseurl }}/images/object-class.png)
+ ![_config.yml]({{ site.baseurl }}/images/object-class.jpg)
