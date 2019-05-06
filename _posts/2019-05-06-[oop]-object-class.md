@@ -24,6 +24,7 @@ Object-វត្ថុ ក្នុង​ការ​សរសេរ​កម្
 
 ឧទាហរណ៏: Class : Person មាន​អត្តសញ្ញាណគឺ Name,Age,Address… និង​សកម្ម​ភាព ដើរ,ឈរ,អង្កុយ… និង​ត្រូវ​បាន​ពណ៌នា​នៅលើ Class.
 ឧទាហរណ៏:Object: Object ជាក់ស្ដែង Person ដែល​ត្រូវ​បាន​បង្កើតចេញពី Class Person ហើយ​នឹង​មាន​លក្ខណសំគាល់ Name = Soeng HengLee,Age =2,Address = Cambodia…និង បណ្ដា​ សកម្មភាព ដែល​មាន​នៅ​ក្នុង Class។
+
  ![_config.yml]({{ site.baseurl }}/images/object1.png)
  
 *យល់ថា class គឺជា​ការ​ពណ៌នាភាព​ជា​គំរូ ទូទៅមួយ (ឧទាហរណ៏៖ ឡាន), ចំណែក Object ជា​វត្ថុជាក់ស្ដែង (ឧទាហរណ៏៖ ឡាន TOYOA, BMW,HONDA)
