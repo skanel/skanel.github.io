@@ -36,3 +36,6 @@ console.log(`Time Elapse: ${(t2 - t1) / 1000} second. `)
 ```
 
 ពេលដំណើរការយើងនឹងឃើញ​ថាតើមួយណាលឿនជាង ដូច្នេះពេលសរសេរគឹគម្បីគិតថាតើវិធីណាមួយល្អប្រសើរ។
+
+![_config.yml]({{ site.baseurl }}/images/bigO.png)
+
