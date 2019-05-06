@@ -22,7 +22,7 @@ var t2 = performance.now()
 console.log(`Time Elapse: ${(t2 - t1) / 1000} second. `)
 ```
 
-ប្រៀបធៀបនឹងកូដខាងក្រោមនេះ
+# ប្រៀបធៀបនឹងកូដខាងក្រោមនេះ
 
 ```javascript
 function addUpTo(n) {
