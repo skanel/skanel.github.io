@@ -7,6 +7,8 @@ title: BigData|ទាញទិន្ន័យពី T24 ដោយប្រើApa
 Apache Hadoop, Apache Spark 
 Sclal programming 
 
+![_config.yml]({{ site.baseurl }}/images/Temenos.png)
+
 ```
 package com.company.projects.app.T24
 
