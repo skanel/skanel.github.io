@@ -6,6 +6,8 @@ postRust:| ស្វែងយល់ពី​Rust លឿនដូច C/C++
 Rust (/rʌst/)  គឺជាភាសាបង្កើតកម្ម​វិធីសម្រាប់ប្រពន្ធ័ (system programming language) ដែលអាចមាន​ល្បឿនដំណើរលឿន,កាត់បន្ថយ bug crash (segfaults),
 កាត់បន្ថយ data race, ធានាបាន memory safe ដោយ​មិន​ចាំបាច់ប្រើ garbage collector!
 
+![_config.yml]({{ site.baseurl }}/images/rust.jpg)
+
 ឃ្លាបញ្ជាសម្រាប់ការបង្កើតកម្មវិធី Hello World ក្នុង Rust ដូចខាងក្រោមនេះ:
 
 fn main() {
