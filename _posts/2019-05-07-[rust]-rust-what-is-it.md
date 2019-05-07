@@ -1,6 +1,6 @@
 ```
 layout:	title
-postRust:| ស្វែងយល់ពី​Rust លឿនដូច C/C++
+postRust:| ស្វែងយល់ពី​Rust ភាសាដែលលឿនដូច C/C++
 ```
 
 Rust (/rʌst/)  គឺជាភាសាបង្កើតកម្ម​វិធីសម្រាប់ប្រពន្ធ័ (system programming language) ដែលអាចមាន​ល្បឿនដំណើរលឿន,កាត់បន្ថយ bug crash (segfaults),
