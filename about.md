@@ -9,7 +9,7 @@ permalink: /about/
 ### អំពីខ្ញុំ
 
 សួរស្ដី,
-ខ្ញុំបាទឈ្មោះ សិង្ហ កាណែល– ខ្ញុំជ *Hacktivist* ។ ហើយនេះជា [LinknedIn](https://www.linkedin.com/in/kanel-soeng/)។
+ខ្ញុំបាទឈ្មោះ សិង្ហ កាណែល– ខ្ញុំជ * Hacktivist * ។ ហើយនេះជា [LinknedIn](https://www.linkedin.com/in/kanel-soeng/)។
 
 សម្ដី​ដែល​ខ្ញុំចងចាំ​ហើយ​តែង​ស្ថិត​ក្នុង​ក្រដៅ​បេះដូង​ខ្ញុំគឺ៖ *គុណធម៌ស្មើមេឃទង្វើល្អមិនសាបសូន្យ។*
 
