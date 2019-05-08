@@ -5,10 +5,12 @@ title: BigData|ផែនការសម្រាប់ការឆ្ពោះ�
 
 នេះជាផែនការដែលខ្ញុំបានអនុវត្តក្នុងការផ្លាស់ប្ដូរមកប្រើ BigData Technology Stack.
 
-ROADMAP (To-Review):
-|==Preparation==|>==Milestone1==|>==Milestone2==|>==Milestone3==|>Milestone4==
-   01 month		    02 months		1.5 month	   01 month	       01month
-   
+# ROADMAP:
+|==Preparation 01 month
+|>==Milestone1 02 months
+|>==Milestone2 1.5 month
+|>==Milestone3 01 month
+|>Milestone 01 month
 
 Preparation: duration: 1 month
 ===========
@@ -37,14 +39,12 @@ Objective: To transfer all data landing into HDFS landing
     1. Using Apache spark/sqoop to transfer sql data landing to HDFS
     2. using hive/hbase to manage the data landing 
 
-
 Milestone2: duration: 1.5: month
 ===========
 
 Objective: Extreme Cube Olap engine for big data
 How: 
 1. From warehouse to cube olap by using Apache kylin which provide SQL interface and multi-dimensional analysis (OLAP) on Hadoop/Spark.
-
 		
 Milestone3: duration: 1: month
 ==========
@@ -58,7 +58,6 @@ How:
 1. Training technical user who can response to maintain Hadoop
 2. Training business user how to work with olap cube with big dataset.
 
-
 Milestone4: duration: 1: month
 ==========
 
@@ -70,7 +69,6 @@ Supports:
  - For internal resource AMK could provide the 2 days training from https://kyligence.io/apache-kylin-certification/ 
  - For internal resources we can provide the training (Udemy online)
 
- 
 * [Note]: *
 This road map will  implement step by step , by not blocking any business operation at all.
 How:
