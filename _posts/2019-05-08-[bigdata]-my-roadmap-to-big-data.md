@@ -6,23 +6,23 @@ title: BigData|ផែនការសម្រាប់ការឆ្ពោះ�
 នេះជាផែនការដែលខ្ញុំបានអនុវត្តក្នុងការផ្លាស់ប្ដូរមកប្រើ BigData Technology Stack.
 
 # ROADMAP:
-|==Preparation 01 month
-|>==Milestone1 02 months
-|>==Milestone2 1.5 month
-|>==Milestone3 01 month
-|>Milestone 01 month
+|==Preparation 01 month <br/>
+|>==Milestone1 02 months <br/>
+|>==Milestone2 1.5 month <br/>
+|>==Milestone3 01 month <br/>
+|>Milestone 01 month <br/>
 
 Preparation: duration: 1 month
 ===========
 
 1. Resources: Need person to working on this, should be person in report team.
-		- One project leader who have knowledge of agile / Scrum & Six sigma: 
-		- One person good at Hadoop ecosystem/SQL server: 
-		- One developer using Java or Python or Scala.
+	- One project leader who have knowledge of agile / Scrum & Six sigma: 
+	- One person good at Hadoop ecosystem/SQL server: 
+	- One developer using Java or Python or Scala.
 2. Ecosystem infrastructure
-		-Need a cluster: The cluster is the set of host machines (nodes). Nodes may be partitioned in racks. This is the hardware part of the infrastructure.
-		-Need a YARN Infrastructure:   Responsible for providing the computational resources (e.g., CPUs, memory, etc.) needed for application executions.
-		-Or Cloud at AWS or any cloud platform.
+	-Need a cluster: The cluster is the set of host machines (nodes). Nodes may be partitioned in racks. This is the hardware part of the infrastructure.
+	-Need a YARN Infrastructure:   Responsible for providing the computational resources (e.g., CPUs, memory, etc.) needed for application executions.
+	-Or Cloud at AWS or any cloud platform.
 
 
 Milestone1: duration: 3 months
