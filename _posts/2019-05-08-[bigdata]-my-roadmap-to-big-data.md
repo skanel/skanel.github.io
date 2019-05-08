@@ -2,6 +2,7 @@
 layout: post
 title: BigData|ផែនការសម្រាប់ការឆ្ពោះទៅប្រើBigData
 ---
+
 នេះជាផែនការដែលខ្ញុំបានអនុវត្តក្នុងការផ្លាស់ប្ដូរមកប្រើ BigData Technology Stack.
 
 ROADMAP (To-Review):
@@ -42,7 +43,6 @@ Milestone2: duration: 1.5: month
 
 Objective: Extreme Cube Olap engine for big data
 How: 
-
 1. From warehouse to cube olap by using Apache kylin which provide SQL interface and multi-dimensional analysis (OLAP) on Hadoop/Spark.
 
 		
@@ -61,8 +61,9 @@ How:
 
 Milestone4: duration: 1: month
 ==========
-                Objective: Machine Learning in finance
-		How: Select a simple user case or small project to implement.
+
+Objective: Machine Learning in finance
+How: Select a simple user case or small project to implement.
 		
 Supports:
 ========
@@ -71,7 +72,7 @@ Supports:
 
  
 * [Note]: *
-	This road map will  implement step by step , by not blocking any business operation at all.
-	How:
-		- by keeping Insight available to business user and moving the critical part such as loan/saving , stmt.entry, categ.entry.
-		- keep insight cube as work for business users. 
+This road map will  implement step by step , by not blocking any business operation at all.
+How:
+- by keeping Insight available to business user and moving the critical part such as loan/saving , stmt.entry, categ.entry.
+- keep insight cube as work for business users. 
