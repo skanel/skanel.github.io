@@ -5,7 +5,7 @@ title: BigData|ទាញទិន្ន័យពី T24 ដោយប្រើApa
 
 នេះជាកូដដែលខ្ញុំប្រើដើម្បីទាញទិន្ន័យពីT24 core banking system ដែលប្រើ ប្រាស់ Oracle DB . ក្នុងកូដនេះខ្ញុំប្រើ Big Data Technology stack ដូចជា 
 Apache Hadoop, Apache Spark 
-Sclal programming 
+Scala programming 
 
 ![_config.yml]({{ site.baseurl }}/images/Temenos.png)
 
