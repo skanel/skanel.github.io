@@ -1,3 +1,8 @@
+---
+layout: post
+title: BigData|ផែនការសម្រាប់ការឆ្ពោះទៅប្រើBigData
+---
+នេះជាផែនការដែលខ្ញុំបានអនុវត្តក្នុងការផ្លាស់ប្ដូរមកប្រើ BigData Technology Stack.
 ROADMAP (To-Review):
 |==Preparation==|>==Milestone1==|>==Milestone2==|>==Milestone3==|>Milestone4==
    01 month		    02 months		1.5 month	   01 month	       01month
