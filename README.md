@@ -1,1 +1,1 @@
-# It just My Personal Blog.
+# It's just My Personal Blog.
