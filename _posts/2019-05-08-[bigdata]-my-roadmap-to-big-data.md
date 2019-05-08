@@ -3,6 +3,7 @@ layout: post
 title: BigData|ផែនការសម្រាប់ការឆ្ពោះទៅប្រើBigData
 ---
 នេះជាផែនការដែលខ្ញុំបានអនុវត្តក្នុងការផ្លាស់ប្ដូរមកប្រើ BigData Technology Stack.
+
 ROADMAP (To-Review):
 |==Preparation==|>==Milestone1==|>==Milestone2==|>==Milestone3==|>Milestone4==
    01 month		    02 months		1.5 month	   01 month	       01month
@@ -55,15 +56,17 @@ Milestone3: duration: 1: month
 
 
 Milestone4: duration: 1: month
-		Objective: Machine Learning in finance
+==========
+                Objective: Machine Learning in finance
 		How: Select a simple user case or small project to implement.
 		
 Supports:
+========
  - For internal resource AMK could provide the 2 days training from https://kyligence.io/apache-kylin-certification/ 
  - For internal resources we can provide the training (Udemy online)
 
  
-[Note]:
+* [Note]: *
 	This road map will  implement step by step , by not blocking any business operation at all.
 	How:
 		- by keeping Insight available to business user and moving the critical part such as loan/saving , stmt.entry, categ.entry.
