@@ -1,3 +1,4 @@
 # It's just My Personal Blog.
 
-![_config.yml]({{ site.baseurl }}/images/microbit.png)
+![skanel](https://skanel.github.io/images/microbit.png)
+
