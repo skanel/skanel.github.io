@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BigData|ទាញទិន្ន័យពី T24 ដោយប្រើApache Hadoop,Apache Spark 
+title: BigData|ទាញទិន្ន័យពី T24 ដោយប្រើ Spark
 ---
 
 នេះជាកូដដែលខ្ញុំប្រើដើម្បីទាញទិន្ន័យពីT24 core banking system ដែលប្រើ ប្រាស់ Oracle DB . ក្នុងកូដនេះខ្ញុំប្រើ Big Data Technology stack ដូចជា 
