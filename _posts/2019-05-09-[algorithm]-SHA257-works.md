@@ -6,6 +6,9 @@ title: algorithm|តើ Hash SHA256​ដំណើរការដូចម្ដ
 A cryptographic hash is an algorithm that takes an input and turns it into an output of a fixed size. 
 It looks like a mix up of numbers and letters. 
 
+![_config.yml]({{ site.baseurl }}/images/sha256.png)
+
+
 There are many types of cryptographic hashes. Bitcoin, for example,uses a hashing algorithm called SHA-256. 
 Here is an example of how this is done and the example code used.
 
