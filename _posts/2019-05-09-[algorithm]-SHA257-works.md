@@ -12,6 +12,8 @@ It looks like a mix up of numbers and letters.
 There are many types of cryptographic hashes. Bitcoin, for example,uses a hashing algorithm called SHA-256. 
 Here is an example of how this is done and the example code used.
 
+![_config.yml]({{ site.baseurl }}/images/hash.png)
+
 ```
 import java.security.MessageDigest;
 import java.util.Scanner;
