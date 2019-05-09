@@ -6,11 +6,11 @@ title: BigData|ផែនការសម្រាប់ការឆ្ពោះ�
 នេះជាផែនការដែលខ្ញុំបានអនុវត្តក្នុងការផ្លាស់ប្ដូរមកប្រើ BigData Technology Stack.
 
 # ROADMAP:
-|>Preparation 01 month <br/>
-|>Milestone1 02 months <br/>
-|>Milestone2 1.5 month <br/>
-|>Milestone3 01 month <br/>
-|>Milestone 01 month <br/>
+|>Preparation 1 month <br/>
+|>Milestone1  2 months <br/>
+|>Milestone2  1.5 month <br/>
+|>Milestone3  1 month <br/>
+|>Milestone4  1 month <br/>
 
 Preparation: duration: 1 month
 ===========
