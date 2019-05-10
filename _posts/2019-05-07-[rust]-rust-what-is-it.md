@@ -58,8 +58,8 @@ fn main() {
 # លក្ខណៈពិសេស
 - zero-cost abstractions
 - move semantics
-- តែងតែធានាបាននូវ​សុវត្ថភាអង្គចងចាំ
--threads មិនកើតមានករណី data races
+- តែងតែធានាបាននូវ​សុវត្ថភាអង្គចងចាំ(memory-efficien)
+- threads មិនកើតមានករណី data races
 - trait-based generics
 - pattern matching
 - type inference
