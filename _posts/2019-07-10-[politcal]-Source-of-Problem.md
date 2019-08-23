@@ -1,6 +1,6 @@
 ---
 layout: post
-title: នយោបាយ|Source of Problem
+title: idea|Source of Problem
 ---
 
 There are so many views on problem definition. They try to put the problem on sides of other and escape from the frame of responsibility. This is becoming common and people usually do it, then it becomes attitude from daily behavior. From this essay, I would suggest reader to stop finding place where problem should be put, but to find where they come from. My opinion, I think that problem comes from 2 main sources.
