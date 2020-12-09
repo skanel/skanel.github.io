@@ -6,7 +6,7 @@ title: Rust|define trait in rust
 
 Similar to interfaces in other languages, traits allow you to set 'rules' or 'requirements' for a particular struct in order for it to be considered to be 'something'.
 
-In this video we create a trait called 'HasVoiceBox' which says that any Struct implementing this trait must have a speak() and can_speak() method defined on it.
+In this article we create a trait called 'HasVoiceBox' which says that any Struct implementing this trait must have a speak() and can_speak() method defined on it.
 
 For more information refer to the Rust documentation:
 https://doc.rust-lang.org/1.8.0/book/traits.html
