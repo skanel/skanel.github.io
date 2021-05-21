@@ -2,10 +2,7 @@
 layout: post
 title: core banking|T24 Outbound Capability
 ---
-
-
 *Web Services*
-
 Temenos provide two type of Web-services for Outbound capabilities:
 
 *REST Services*
