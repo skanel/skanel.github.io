@@ -4,13 +4,15 @@ title: core banking|T24 Outbound Capability
 ---
 
 
-**Web Services**
+*Web Services*
 
 Temenos provide two type of Web-services for Outbound capabilities:
-REST Services
+
+*REST Services*
+
 This is also known as Interaction Framework based IRIS open source. These are ReSTful for Temenos T24  
 
-**SOAP Services**
+*SOAP Services*
 
 This is also known as TWS (Temenos Web Services).
 T24 Inbound Integration we will use mainly TWS generated artefacts that allow the input and amendment of data records in T24.
