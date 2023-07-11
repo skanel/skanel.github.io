@@ -1,3 +1,8 @@
+---
+layout: post
+title: Rust|The hard part of rust
+---
+
 One of the challenging aspects of Rust for many developers, especially those coming from other programming languages, is understanding and working with its ownership system. Here's an explanation of the hard parts of Rust's ownership in simple terms:
 
 1. **Borrowing and Ownership**: Rust enforces strict rules about how values are borrowed and owned. Each value has a single owner, and ownership can be transferred or borrowed using references. The challenge lies in understanding when to use ownership or references and how to manage them correctly to prevent issues like use-after-free or data races.
